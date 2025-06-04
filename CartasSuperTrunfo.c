@@ -7,6 +7,7 @@
 //Teste larissa
 
 int main() {
+    
 // Carta 1
 char codigo1[4];
 int populacao1;
